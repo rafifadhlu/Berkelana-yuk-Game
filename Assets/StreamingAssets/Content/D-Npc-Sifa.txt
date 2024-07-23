@@ -1,0 +1,11 @@
+1+ Sifa
+1- Haloo apa kabar?. Kenalin aku Sifa!
+1- Hebat! Kamu sudah sampai di sini!
+1- Saat ini kamu berada di Museum Sejarah Jakarta
+1- Ayo kita Berkelana!
+
+2+ Sifa
+2- Oh hai!, selamat berkelana ya!
+
+3+ Sifa
+3- Haloo!, kamu sudah menyelesaikan stage ini selamat yaa!

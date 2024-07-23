@@ -1,0 +1,461 @@
+fileFormatVersion: 2
+guid: def111b093db86f448b7214f53a3dd6b
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor
+    second: {fileID: 2100000, guid: 66ea8d224d52fc542b863b882869abfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.001
+    second: {fileID: 2100000, guid: fa01e21884cbbbd499514acaf971d238, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.002
+    second: {fileID: 2100000, guid: cb701821922f11c44b3064382732b374, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.003
+    second: {fileID: 2100000, guid: 79e479d4cb7d95344adfebcfceaa8c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.004
+    second: {fileID: 2100000, guid: ab098da0fe4cc374d822ac47949d75d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.005
+    second: {fileID: 2100000, guid: 1d6d599621514cb4f88584924e51e357, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.006
+    second: {fileID: 2100000, guid: def3b285cc3cdd246a58536b5158ba4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.007
+    second: {fileID: 2100000, guid: b2aeda0f81d0cbc46a9c09fb6dd98cad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.008
+    second: {fileID: 2100000, guid: e77aa348f7a7e5d45a05deca95ba95be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.009
+    second: {fileID: 2100000, guid: 6832d6ba8a33e774ea74dd7fe5fc816e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.010
+    second: {fileID: 2100000, guid: 28a6b456bcdd6e34aa0dbf8aabcdbeff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.011
+    second: {fileID: 2100000, guid: aaa18a2c9f721e54fbfebd7befa247de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.012
+    second: {fileID: 2100000, guid: 6c950aa582b83194d9f7b1c21dccc7e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.013
+    second: {fileID: 2100000, guid: eba1807224f2c8f4aa1f317272da2fb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.014
+    second: {fileID: 2100000, guid: 459e740708e42e846b4b50903db33619, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.015
+    second: {fileID: 2100000, guid: 2f48f01756a7c1b46a3e9f7eadcd6e64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.016
+    second: {fileID: 2100000, guid: c6bac5d6d04846741a80f5d4770223dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.017
+    second: {fileID: 2100000, guid: 52baf42aa0777734eb962c002a74702f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.018
+    second: {fileID: 2100000, guid: e478bc79b0d16bc46a44159c5a796e0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.019
+    second: {fileID: 2100000, guid: 1aaf9875a3858ad4b89d77dcd505acd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.020
+    second: {fileID: 2100000, guid: fbd4ecc297f66b24c9a6e7f0d3741c1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.021
+    second: {fileID: 2100000, guid: ecc1470a31b5e094081e61e5c81867b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.022
+    second: {fileID: 2100000, guid: e1eeb5dc4ed075d41ac792f1de2f2780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.023
+    second: {fileID: 2100000, guid: efd31a07a11c09f429317f77eb240cac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.024
+    second: {fileID: 2100000, guid: 969e3f3b2276704498ff67f02bd758c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.025
+    second: {fileID: 2100000, guid: 32e522514a8f69e45922e80ec0be916f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.026
+    second: {fileID: 2100000, guid: f3c6dcece1d96ec4bac1f67c01a24db3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.027
+    second: {fileID: 2100000, guid: 3615fb94a80ad1140a61c7d45bfc84c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.029
+    second: {fileID: 2100000, guid: e7c9df49c769f6f49a163d25a2147034, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseColor.031
+    second: {fileID: 2100000, guid: 2c20757730b6afe4ca940d958468134d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ListHitam
+    second: {fileID: 2100000, guid: 0669f41550fa5324c80f3df527406abc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ListHitam.001
+    second: {fileID: 2100000, guid: beb5a6a0430abf441acb7269a46a81ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ListHitam.002
+    second: {fileID: 2100000, guid: 61ea58ff7c95e2347b7ee35f7cf4b7db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ListHitam.003
+    second: {fileID: 2100000, guid: 17c9efa89e736f3418179984d439fdb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ListHitam.004
+    second: {fileID: 2100000, guid: 8175f490994411c4ab0cad9d8810d0cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ListHitam.005
+    second: {fileID: 2100000, guid: 53ec26bd2fa44b14cbe2646ee52f6888, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ListHitam.006
+    second: {fileID: 2100000, guid: 534711f2fe474944fb2951d1aa9a5d71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ListHitam.007
+    second: {fileID: 2100000, guid: 8075bdd795bd11a41871b3e183a8e217, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ListHitam.008
+    second: {fileID: 2100000, guid: b10eb607e6264ea48884ffe05ccdfb71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ListHitam.009
+    second: {fileID: 2100000, guid: 9681f21e8b6c56b458056065060fdc7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ListHitam.010
+    second: {fileID: 2100000, guid: d2a4502ba6007ae4194dff975f488bec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ListHitam.011
+    second: {fileID: 2100000, guid: a971a5c89807e2c4cb7df5d701309048, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ListHitam.012
+    second: {fileID: 2100000, guid: a8bbac93ac5a82e42a8c0bd6bb72a558, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ListHitam.013
+    second: {fileID: 2100000, guid: ef4f718763e483d4b8898478b8e55e39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ListHitam.014
+    second: {fileID: 2100000, guid: 0fe69828704b1154c83c813d506b3b71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ListHitam.015
+    second: {fileID: 2100000, guid: d9122f9b7ee8a6d4c99b1298e9c51a53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ListHitam.016
+    second: {fileID: 2100000, guid: 73cef96ac8cabe54db26e49fcb985c01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ListKrem
+    second: {fileID: 2100000, guid: 5d6c6f86a195c674494bafe3fc663e50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ListKrem.001
+    second: {fileID: 2100000, guid: d98891ca26d373b4a8cb55052b525530, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ListKrem.002
+    second: {fileID: 2100000, guid: 725bc3fca7957f64aa885b05e5457de9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ListKrem.003
+    second: {fileID: 2100000, guid: 2d1c470aed180834e910a5f9a3cc7ea0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: cf82cb22d3b6dc3469de3533e2dbc5cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kusenHijau
+    second: {fileID: 2100000, guid: 4a932aea91393b34ba5bff5d5833d180, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kusenHijau.001
+    second: {fileID: 2100000, guid: ffc051d108abd314aadd54b3e422e1f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kusenHijau.002
+    second: {fileID: 2100000, guid: 14d9c8eeb26e82a4fafa176a11700386, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kusenHijau.003
+    second: {fileID: 2100000, guid: ee4726e5a88c62942ae9406b8332d178, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kusenHijau.004
+    second: {fileID: 2100000, guid: 1cd1393c3dc9f8249abf70454e087faa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kusenHijau.005
+    second: {fileID: 2100000, guid: dd49d158d59cc3f4189c2ed884a74525, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kusenHijau.006
+    second: {fileID: 2100000, guid: 0603cdb844b33af4b829cc66d31d1149, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kusenHijau.007
+    second: {fileID: 2100000, guid: 5f373b1ac8193c64695f85ed1020b898, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kusenHijau.008
+    second: {fileID: 2100000, guid: 351e95a2df54e8347977ea88810d8e3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kusenHijau.009
+    second: {fileID: 2100000, guid: 9ed41aab22bc5c94e9d814150a1a0120, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kusenHijau.010
+    second: {fileID: 2100000, guid: 2dd07b18334cddd4f9089f926756f674, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kusenHijau.011
+    second: {fileID: 2100000, guid: 5c395e8fa15440d4fac31f10dffaf3d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kusenHijau.012
+    second: {fileID: 2100000, guid: 9fd46c883786f7c49af4a4ac8b7fceb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kusenHijau.013
+    second: {fileID: 2100000, guid: cf09220d1fa76594abb3d82e3577290d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kusenHijau.014
+    second: {fileID: 2100000, guid: 23b61ceec2aabf74eb9c1932f6ab578c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kusenHijau.015
+    second: {fileID: 2100000, guid: 26e295386c695cb49881db93d34a0d38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kusenHijau.017
+    second: {fileID: 2100000, guid: ec53611ea0665fd439c8de77826d5f11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kusenHijau.019
+    second: {fileID: 2100000, guid: 8cdbbfbc2e69f174fa97cf8539c44e62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roofColor
+    second: {fileID: 2100000, guid: fe61cba66755a77459f52b51902c9155, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
