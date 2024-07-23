@@ -32,9 +32,12 @@ Development Purpose
 > All materials content is in Indonesian languange <br>
 > Game "Berkelana Yuk! Download Link [Download](https://docs.unity3d.com/2023.1/Documentation/Manual/android-sdksetup.html)
 
-**Indonesian** 
->Saat ini game hanya tersedia untuk platform Android.
+> [!WARNING]
+>
+>Currently, The game only available for Android. So make sure you do not use IOS.
 
+
+**Indonesian** 
 
 1. Download game file"Berkelana Yuk! dari link yang ada diatas
 2. Setelah selesai, Install game 
@@ -42,7 +45,6 @@ Development Purpose
 4. Selesai, Selamat berkelana :)
 
 **English**
->Currently, The game only available for Android. So make sure you do not use IOS.
 
 1. Download the game file "Berkelana Yuk! on link above
 2. After completed, Install the game.
